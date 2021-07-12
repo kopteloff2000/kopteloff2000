@@ -4,7 +4,7 @@
 #### Front-end
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=sass)
+![SASS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
