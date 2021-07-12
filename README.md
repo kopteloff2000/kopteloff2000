@@ -10,5 +10,5 @@
 #### Back-end
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-090909?style=for-the-badge&logo=Express)
-### E-Mail: ka1zer2808gg@gmail.com
-### Telegram: @kopteloffN
+#### E-Mail: ka1zer2808gg@gmail.com
+#### Telegram: @kopteloffN
