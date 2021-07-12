@@ -9,4 +9,4 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 #### Back-end
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
-![ExpressJS](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=ExpressJS)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-090909?style=for-the-badge&logo=Express)
