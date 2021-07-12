@@ -1,6 +1,6 @@
 # Hi, my name is **Nikita Koptelov**!
 ## I'm a beginner *Web developer* from Ekaterinburg.
-### My skills
+### **Technologies** that I use
 #### Front-end
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
