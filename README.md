@@ -1,4 +1,4 @@
-# Hi, my name is **Nikita Koptelov**!
+# Hi, my name is **Nikita**!
 ## I'm a beginner *Web developer* from Ekaterinburg.
 ### **Technologies** that I use
 #### Front-end
